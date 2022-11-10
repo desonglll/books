@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKAllocatedSize</key>
+	<integer>2936832</integer>
+	<key>BKDisplayName</key>
+	<string>人生最美是清欢 by 林清玄 (z-lib.org)</string>
+	<key>BKGenerationCount</key>
+	<integer>2</integer>
+	<key>BKInsertionDate</key>
+	<integer>668910024</integer>
+	<key>artistName</key>
+	<string>林清玄</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>DEDB0FB3B970A6CDB37D52D9A8AD1368</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Image00000.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>37350B3C1092763300B619AB43DD4036</string>
+		<key>publisher-unique-id</key>
+		<string>urn:uuid:273fd756-62f2-4858-8d67-99e08f24bba9</string>
+		<key>unique-id</key>
+		<integer>-4972255650375584712</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>isPreview</key>
+	<false/>
+	<key>itemName</key>
+	<string>人生最美是清欢</string>
+	<key>updateDate</key>
+	<date>2022-03-14T00:20:24Z</date>
+</dict>
+</plist>
